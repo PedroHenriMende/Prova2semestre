@@ -1,4 +1,5 @@
-/*Atividade 4 (10 pontos)
+/* Pedro Henrique Mendes de Jesus; Tiago Daniel de Souza de Filho; Augusto Lopes Costa da Silva; Vinicius Eduardo
+Atividade 4 (10 pontos)
  Encontre os 5 erros
  - Se inserir erros -2 pontos por erro
  - indique as linhas que estão com problemas no código
