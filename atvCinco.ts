@@ -1,4 +1,5 @@
-/*Atividade 5 (10 pontos)
+/*Pedro Henrique Mendes de Jesus; Tiago Daniel de Souza de Filho; Augusto Lopes Costa da Silva; Vinicius Eduardo
+Atividade 5 (10 pontos)
 
 Faça um programa que armazene em um Array
 somente número pares (6 números, é óbvio que temos que 
