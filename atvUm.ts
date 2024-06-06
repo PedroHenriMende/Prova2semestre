@@ -1,4 +1,5 @@
-/* Atividade 1 (30 pontos)
+/* Pedro Henrique Mendes de Jesus; Tiago Daniel de Souza de Filho; Augusto Lopes Costa da Silva; Vinicius Eduardo
+Atividade 1 (30 pontos)
 
 Faça um programa que tenha 3 funções:
 
