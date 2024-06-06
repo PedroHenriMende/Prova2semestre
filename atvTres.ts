@@ -1,4 +1,5 @@
-/* Atividade 3 (10 pontos)
+/* Pedro Henrique Mendes de Jesus; Tiago Daniel de Souza de Filho; Augusto Lopes Costa da Silva; Vinicius Eduardo 
+Atividade 3 (10 pontos)
  Encontre 5 erros na aplicação, se por acaso  o aluno colocar mais erros, 
  perde 2 pontos na nota  por erro.
 
